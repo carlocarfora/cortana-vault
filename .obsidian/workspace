@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0f578d713dd74163",
+        "id": "706468e0b689bb69",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -95,10 +95,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0f578d713dd74163",
+  "active": "706468e0b689bb69",
   "lastOpenFiles": [
     "pop-os.md",
     "pico-8.md",
+    "chezmoi.md",
     "arnold.md"
   ]
 }
