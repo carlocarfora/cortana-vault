@@ -79,8 +79,17 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "e9704eb1b69ef1b7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
