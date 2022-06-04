@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "ea298cbff4211674",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f578d713dd74163",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pop-os.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bcaf5e3663fd0101",
+    "type": "split",
+    "children": [
+      {
+        "id": "22a93f4e3cd61c1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "439347bfd91d5102",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "72da36796472436e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7298048b1f421757",
+    "type": "split",
+    "children": [
+      {
+        "id": "697fd057c0d39605",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8a9654bbc816d38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pop-os.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "0f578d713dd74163",
+  "lastOpenFiles": [
+    "pop-os.md",
+    "pico-8.md",
+    "arnold.md"
+  ]
+}
