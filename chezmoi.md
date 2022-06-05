@@ -12,4 +12,3 @@ https://www.chezmoi.io/user-guide/daily-operations/
 	- .bashrc
 - Manage differences across OS
 - Figure out what dotfiles need to be tracked with common software
-	- vscode 
