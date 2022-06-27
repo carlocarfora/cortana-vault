@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "arnold.md",
+            "file": "linux-setup.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arnold.md",
+                "file": "linux-setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +97,9 @@
   },
   "active": "706468e0b689bb69",
   "lastOpenFiles": [
-    "arnold.md",
-    "pico-8.md",
+    "linux-setup.md",
     "chezmoi.md",
-    "linux-setup.md"
+    "arnold.md",
+    "pico-8.md"
   ]
 }
